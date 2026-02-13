@@ -1,4 +1,11 @@
 # myapp
+## web
+<img width="768" height="591" alt="image" src="https://github.com/user-attachments/assets/97fc960d-452a-43e6-83b5-484067b02f01" />
+
+## android
+
+<img width="334" height="567" alt="image" src="https://github.com/user-attachments/assets/ab4b6ab2-2634-4053-8fcf-97d4185195a4" />
+
 
 A new Flutter project.
 
